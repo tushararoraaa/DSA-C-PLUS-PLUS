@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1634901338 source:c:\users\tusha\desktop\dsa\bst\check if bst\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

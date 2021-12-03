@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1634128892 source:c:\users\tusha\desktop\dsa\stl\vector\main.cpp
+	<iostream>
+	<vector>
+

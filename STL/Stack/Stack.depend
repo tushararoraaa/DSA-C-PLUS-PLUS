@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1634206088 source:c:\users\tusha\desktop\dsa\stl\stack\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
